@@ -1,0 +1,6 @@
+{
+    "require": {
+        "clancats/hydrahon": "^1.1",
+        "paypal/rest-api-sdk-php": "^1.14"
+    }
+}
