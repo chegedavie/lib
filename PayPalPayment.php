@@ -32,8 +32,8 @@ class PayPalPayment extends DB
 
     function __construct()
     {
-                $clientId = 'AZgq9NqhPK3jtjpuUy6YOBNcPcb7VlNCc6lkK_E033QeCnbTUNT9m4hYdkN431CdfySRMFM-tURwnRRI';
-                $clientSecret = 'ECGr3nMw2FTSLCAKudYgh8amIdMcN_9_0GbkkeOpX11lt5HMWS9t03GI-3pI9KzCwTNZiOBPqN3APDuj';
+                $clientId = 'YOUR_ID';
+                $clientSecret = 'YOUR_SECRET';
 
                 /**
                  * All default curl options are stored in the array inside the PayPalHttpConfig class. To make changes to those settings
